@@ -1,0 +1,5 @@
+server:
+  port: 8081
+
+ssoUrl: http://www.sso.com:8083  #第三方服务地址
+clientUrl: http://www.crm.com:8081 #本服务地址
